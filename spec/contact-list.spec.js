@@ -1,4 +1,3 @@
-const { assert } = require("chai");
 
 describe('#contact-list', function () {
   
@@ -19,7 +18,7 @@ describe('#contact-list', function () {
 
   describe("findContact()", () => {
     it('should return the contact object in the array if found', () => {
-      const result = findContact(contacts, 'John Fabroni');
+      const result = findContact(contacts, 'John Fraboni');
       assert.deepEqual(result, {
         "id": 2,
         "nameFirst": "John",
@@ -46,7 +45,7 @@ describe('#contact-list', function () {
       },
     ];
     it('should remove a contact from the array', () => {
-      removeContact(contacts, { id: 2, nameFirst: 'John', nameLast: 'Fraboni'});
+      removeContact(testArray, { id: 2, nameFirst: 'John', nameLast: 'Fraboni'});
       assert.equal(findContact(testArray, 'John Fabroni'), undefined);
       assert.equal(testArray.length, 1);
     });
@@ -94,7 +93,7 @@ describe('#contact-list', function () {
     });
     it('should return a string of full names separated by a linebreak character', () => {
       const result = printAllContactNames(testArray);
-      assert.equal(result, "Max Gaudin\nJohn Fabroni");
+      assert.equal(result, "Max Gaudin\nJohn Fraboni");
     })
   })
 

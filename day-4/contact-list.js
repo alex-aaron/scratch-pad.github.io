@@ -51,7 +51,7 @@ var contacts = [
  */
 
 function findContact(array, fullName) {
- 
+  
 }
 
 /**
@@ -60,7 +60,7 @@ function findContact(array, fullName) {
  * if found.
  */
 function removeContact(array, contact){
-
+  
 }
 
 /**
@@ -69,7 +69,7 @@ function removeContact(array, contact){
  * objects whose first names begin with 'A'.
  */
 function getNamesThatBeginWithA(array){
-
+  
 }
 
 /**
@@ -81,7 +81,7 @@ function getNamesThatBeginWithA(array){
  *    printAllContactNames(contacts); // => 'Max Gaudin\nJohn Fabroni\nAlon robinson\nMykia Smith\Alice Green'
  */
 function printAllContactNames(array){
-
+  
 }
 
 
