@@ -10,7 +10,7 @@
  * Given an input Array, loop forward over the Array and print its values
  * using console.log().
  */
-function printArrayValues(array) {
+function printArrayValues(array) { 
   // YOUR CODE BELOW HERE //
 
   // YOUR CODE ABOVE HERE //
@@ -31,7 +31,7 @@ function printArrayValuesInReverse(array) {
  */
 function getObjectKeys(object) {
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 

@@ -11,6 +11,7 @@
  * return a Function that tests whether a given value is greater than the
  * base.
  */
+
 function createGreaterThanFilter(base) {
   // YOUR CODE BELOW HERE //
   
@@ -23,10 +24,11 @@ function createGreaterThanFilter(base) {
  * base. (test means return true or false)
  *
  */
+
 function createLessThanFilter(base) {
   // YOUR CODE BELOW HERE //
   
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE ABOVE HERE // 
 }
 
 /**
@@ -36,10 +38,10 @@ function createLessThanFilter(base) {
  *
  * This function needs to be case insensitive.
  */
+
 function createStartsWithFilter(startsWith) {
   // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+ 
 }
 
 /**
@@ -49,9 +51,10 @@ function createStartsWithFilter(startsWith) {
  *
  * This function needs to be case insensitive.
  */
+
 function createEndsWithFilter(endsWith) {
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 
@@ -69,12 +72,14 @@ function createEndsWithFilter(endsWith) {
  * 
  *    modifyString(['a', 'b'], function(str){ return str + "!" });
  *    // returns => ['a!', 'b!']
+ * 
  */
 function modifyStrings(strings, modify) {
-  // YOUR CODE BELOW HERE //
+  // YOUR CODE HERE
 
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE
 }
+
 
 
 /**
@@ -96,11 +101,12 @@ function modifyStrings(strings, modify) {
  */
 
 
-function allStringsPass(strings, test) {
+function allStringsPass(strings, test) { 
   // YOUR CODE BELOW HERE //
-
+ 
   // YOUR CODE ABOVE HERE //
 }
+
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////
 if (

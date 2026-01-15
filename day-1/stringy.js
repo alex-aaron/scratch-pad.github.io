@@ -13,34 +13,30 @@
  * work?
  */
 
-/*
-I: Function takes in an input string.
-O: Function returns the length of the input string.
-C:
-E:
-*/
-
-function length(string) {
+function length(string) { 
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
+
 
 /**
  * Given an input String, return a new String forced to lowercase.
  */
+
 function toLowerCase(string) {
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 
 /**
  * Given an input String, return a new String forced to uppercase.
  */
+
 function toUpperCase(string) {
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 
@@ -74,12 +70,22 @@ function toDashCase(string) {
  *
  * TIP: How can you use Array access to your advantage here? How can you
  *      ensure uppercase and lowercase can be compared equally?
+ * 
+ * 
+ * I: Function takes in a string and an individual character
+ * O: Function returns a boolean - true if the string begins with the character
+ * false if otherwise
+ * C: 
+ * E:
  */
+
 function beginsWith(string, char) {
   // YOUR CODE BELOW HERE //
 
   // YOUR CODE ABOVE HERE //
 }
+
+
 
 /**
  * Given an input String and a single character, return true if the String
@@ -123,9 +129,10 @@ function concat(stringOne, stringTwo) {
 function join(stringOne, stringTwo) {
   // YOUR CODE BELOW HERE //
   var args = Array.from(arguments);
-
+  
   // YOUR CODE ABOVE HERE //
 }
+
 
 /**
  * Given two Strings, return the longest of the two.
@@ -151,7 +158,7 @@ function longest(stringOne, stringTwo) {
  */
 function sortAscending(stringOne, stringTwo) {
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 

@@ -14,9 +14,9 @@
  *
  * HINT: There is a method that can help with this.
  */
-function isArray(value) {
+function isArray(value) { 
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 
@@ -48,7 +48,7 @@ function isObject(value) {
  */
 function isCollection(value) {
   // YOUR CODE BELOW HERE //
-
+  
   // YOUR CODE ABOVE HERE //
 }
 
