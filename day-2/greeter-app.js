@@ -8,17 +8,13 @@
  * Using if, else-if and else, AND depending on the hour of the day,
  * write a greeting program that prints a greeting to the screen like so:
  *
- * // hour is 0-11 // greeterApp(10) => 'Good Morning'
- * Good Morning!
+ * // hour is 0-11 // greeterApp(10) => logs 'Good Morning!'
  *
- * // hour is 12-16 // greeterApp(14) => 'Good Afternoon'
- * Good Afternoon!
+ * // hour is 12-16 // greeterApp(14) => logs 'Good Afternoon!'
  *
- * // hour is 17-21 // greeterApp(20) => 'Good Evening'
- * Good Evening!
+ * // hour is 17-21 // greeterApp(20) => 'Good Evening!'
  *
- * // hour is 22-24 // greeterApp(22) => 'Good Night'
- * Good Night!
+ * // hour is 22-24 // greeterApp(22) => 'Good Night!'
  *
  * TIPS:
  *
@@ -34,9 +30,7 @@
  */
 
 function greeter(hour) {
-  if (hour >= 0 && hour <= 11){
-    console.log('Good morning!');
-  }
+  // CODE HERE
 }
 
 /*
