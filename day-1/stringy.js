@@ -13,6 +13,8 @@
  * work?
  */
 
+
+
 function length(string) { 
   // YOUR CODE BELOW HERE //
   
@@ -47,11 +49,8 @@ function toUpperCase(string) {
  *
  *      toDashCase('Hello World'); // => 'hello-world'
  *
- * TIP: How can you look for and replace a space in a String? How can you
- *      enforce lowercase? Look at the global replace link below, or, try String
- *      methods split and join?
+ * TIP: Solve this problem using a combination of split and join.
  *
- *      See: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace#Using_global_and_ignore_with_replace()
  */
 function toDashCase(string) {
   // YOUR CODE BELOW HERE //
