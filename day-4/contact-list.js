@@ -5,42 +5,41 @@
 /**
  * Create a factory function called `makeContact` that takes in `id`, `nameFirst`, and `nameLast`.
  * This function should returns a contact object.
- * 
+ *
  * ex: makeContact(0, 'Max', 'Gaudin') // => { id: 0, nameFirst: 'Max', nameLast: 'Gaudin' }
  *
  */
 
 function makeContact(id, nameFirst, nameLast) {
   // Solve this function first
-  
 }
 
 var contacts = [
-  { 
-    "id": 1,
-    "nameFirst": "Max",
-    "nameLast": "Gaudin"
+  {
+    id: 1,
+    nameFirst: 'Max',
+    nameLast: 'Gaudin',
   },
   {
-    "id": 2,
-    "nameFirst": "John",
-    "nameLast": "Fraboni"
+    id: 2,
+    nameFirst: 'John',
+    nameLast: 'Fraboni',
   },
   {
-    "id": 3,
-    "nameFirst": "Alon",
-    "nameLast": "Robinson"
+    id: 3,
+    nameFirst: 'Alon',
+    nameLast: 'Robinson',
   },
   {
-    "id": 4,
-    "nameFirst": "Mykia",
-    "nameLast": "Smith"
+    id: 4,
+    nameFirst: 'Mykia',
+    nameLast: 'Smith',
   },
   {
-    "id": 5,
-    "nameFirst": "Alice",
-    "nameLast": "Green"
-  }
+    id: 5,
+    nameFirst: 'Alice',
+    nameLast: 'Green',
+  },
 ];
 
 /**
@@ -51,7 +50,7 @@ var contacts = [
  */
 
 function findContact(array, fullName) {
-  
+  // YOUR CODE HERE
 }
 
 /**
@@ -59,32 +58,30 @@ function findContact(array, fullName) {
  * contact object to remove. This function search through the array and remove the contact object
  * if found.
  */
-function removeContact(array, contact){
-  
+function removeContact(array, contact) {
+  // YOUR CODE HERE
 }
 
 /**
- * Create a function called `getNamesThatBeginWithA` that takes in an array of contact objects. 
+ * Create a function called `getNamesThatBeginWithLetter` that takes in an array of contact objects.
  * This function should iterate through the array and return a new array of all of the contact
- * objects whose first names begin with 'A'.
+ * objects whose first names begin with input letter
  */
-function getNamesThatBeginWithA(array){
-  
+function getNamesThatBeginWithLetter(array, letter) {
+  // YOUR CODE HERE
 }
 
 /**
  * Create a function called `getAllContactNames` that takes in an array of contact objects.
  * This function should return a string of each object's full name followed by a linebreak character.
- * 
+ *
  * example:
- * 
- *    printAllContactNames(contacts); // => 'Max Gaudin\nJohn Fabroni\nAlon robinson\nMykia Smith\Alice Green'
+ *
+ *    getAllContactNames(contacts); // => 'Max Gaudin\nJohn Fabroni\nAlon robinson\nMykia Smith\Alice Green'
  */
-function printAllContactNames(array){
-  
+function getAllContactNames(array) {
+  // YOUR CODE HERE
 }
-
-
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////
 if (

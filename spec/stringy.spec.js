@@ -39,7 +39,7 @@ describe('#stringy', function () {
 
   describe('beginsWith()', function () {
     it('should return true if the input String begins with the input character, false otherwise', function () {
-      expect(beginsWith('Hello World', 'h')).to.be.true;  
+      expect(beginsWith('Hello World', 'h')).to.be.true;
       expect(beginsWith('Hello World', 'H')).to.be.true;
       expect(beginsWith('Hello World', 'a')).to.be.false;
     });
@@ -73,7 +73,6 @@ describe('#stringy', function () {
 
   describe('longest()', function () {
     it('should return the longest of two input Strings', function () {
-
       expect(longest('abc', 'z')).to.equal('abc');
       //         test                       correct
       expect(longest('a', 'xyz')).to.equal('xyz');

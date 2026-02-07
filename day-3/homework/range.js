@@ -22,9 +22,7 @@
  *  c. you'll wanna make use of the push() method of Array.
  */
 function range(start, end) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////

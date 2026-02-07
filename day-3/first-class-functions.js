@@ -13,9 +13,7 @@
  */
 
 function createGreaterThanFilter(base) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE
 }
 
 /**
@@ -26,9 +24,7 @@ function createGreaterThanFilter(base) {
  */
 
 function createLessThanFilter(base) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE // 
+  // YOUR CODE HERE
 }
 
 /**
@@ -40,8 +36,7 @@ function createLessThanFilter(base) {
  */
 
 function createStartsWithFilter(startsWith) {
-  // YOUR CODE BELOW HERE //
- 
+  // YOUR CODE HERE
 }
 
 /**
@@ -53,9 +48,7 @@ function createStartsWithFilter(startsWith) {
  */
 
 function createEndsWithFilter(endsWith) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -64,23 +57,19 @@ function createEndsWithFilter(endsWith) {
  *
  * TIP: You need to loop over the Strings, right? We need to pass each String to
  * the modify Function, but we need to collect the results into some collection.
- * 
+ *
  * examples:
- * 
+ *
  *    modifyStrings(['a', 'b', 'c'], function(str) { return str.toUpperCase() });
  *    // returns => ['A', 'B', 'C']
- * 
+ *
  *    modifyString(['a', 'b'], function(str){ return str + "!" });
  *    // returns => ['a!', 'b!']
- * 
+ *
  */
 function modifyStrings(strings, modify) {
   // YOUR CODE HERE
-
-  // YOUR CODE HERE
 }
-
-
 
 /**
  * Given an Array of Strings and a Function designed to test the String in some
@@ -90,23 +79,19 @@ function modifyStrings(strings, modify) {
  * begin with "C", or they are all exclaimations that end with "!".
  *
  * TIP: You need to loop over the Strings, right? And pass them to the test?
- * 
+ *
  * examples:
- * 
+ *
  *    allStringsPass(['a', 'b', 'c'], function(str) { return str.length === 1 });
  *    // returns => true
- * 
+ *
  *    allStringsPass(['a', 'bb', 'c'], function(str) { return string.length === 1 });
  *    // returns => false
  */
 
-
-function allStringsPass(strings, test) { 
-  // YOUR CODE BELOW HERE //
- 
-  // YOUR CODE ABOVE HERE //
+function allStringsPass(strings, test) {
+  // YOUR CODE HERE //
 }
-
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////
 if (

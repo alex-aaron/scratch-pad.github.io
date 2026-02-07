@@ -13,23 +13,16 @@
  * work?
  */
 
-
-
-function length(string) { 
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+function length(string) {
+  // YOUR CODE HERE //
 }
-
 
 /**
  * Given an input String, return a new String forced to lowercase.
  */
 
 function toLowerCase(string) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -37,9 +30,7 @@ function toLowerCase(string) {
  */
 
 function toUpperCase(string) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -53,9 +44,7 @@ function toUpperCase(string) {
  *
  */
 function toDashCase(string) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -69,16 +58,12 @@ function toDashCase(string) {
  *
  * TIP: How can you use Array access to your advantage here? How can you
  *      ensure uppercase and lowercase can be compared equally?
- * 
+ *
  */
 
 function beginsWith(string, char) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
-
-
 
 /**
  * Given an input String and a single character, return true if the String
@@ -93,9 +78,7 @@ function beginsWith(string, char) {
  *      ensure uppercase and lowercase can be compared equally?
  */
 function endsWith(string, char) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -104,9 +87,7 @@ function endsWith(string, char) {
  * TIP: What's the operator to concatenate two Strings?
  */
 function concat(stringOne, stringTwo) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -120,12 +101,9 @@ function concat(stringOne, stringTwo) {
  *      in an Array called args.
  */
 function join(stringOne, stringTwo) {
-  // YOUR CODE BELOW HERE //
+  // YOUR CODE HERE //
   var args = Array.from(arguments);
-  
-  // YOUR CODE ABOVE HERE //
 }
-
 
 /**
  * Given two Strings, return the longest of the two.
@@ -137,9 +115,7 @@ function join(stringOne, stringTwo) {
  * TIP: What property of the String do we need to compare?
  */
 function longest(stringOne, stringTwo) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -150,9 +126,7 @@ function longest(stringOne, stringTwo) {
  * TIP: How can we compare Strings? Is 'a' greater than or less than 'b'?
  */
 function sortAscending(stringOne, stringTwo) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -163,9 +137,7 @@ function sortAscending(stringOne, stringTwo) {
  * TIP: How can we compare Strings? Is 'a' greater than or less than 'b'?
  */
 function sortDescending(stringOne, stringTwo) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////

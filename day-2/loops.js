@@ -10,10 +10,8 @@
  * Given an input Array, loop forward over the Array and print its values
  * using console.log().
  */
-function printArrayValues(array) { 
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+function printArrayValues(array) {
+  // YOUR CODE HERE //
 }
 
 /**
@@ -21,18 +19,14 @@ function printArrayValues(array) {
  * using console.log().
  */
 function printArrayValuesInReverse(array) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
  * Given an input Object, return an Array containing the Object keys.
  */
 function getObjectKeys(object) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -40,18 +34,14 @@ function getObjectKeys(object) {
  * using console.log().
  */
 function printObjectKeys(object) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
  * Given an input Object, return an Array containing the Object's values.
  */
 function getObjectValues(object) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -59,18 +49,14 @@ function getObjectValues(object) {
  * using console.log().
  */
 function printObjectValues(object) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
  * Given an input Object, return the number of key/value pairs stored within that Object.
  */
 function getObjectLength(object) {
-  // YOUR CODE BELOW HERE //
-
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -78,9 +64,7 @@ function getObjectLength(object) {
  * print its values using console.log()?
  */
 function printObjectValuesInReverse(object) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////

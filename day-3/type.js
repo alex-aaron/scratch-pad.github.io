@@ -14,10 +14,8 @@
  *
  * HINT: There is a method that can help with this.
  */
-function isArray(value) { 
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+function isArray(value) {
+  // YOUR CODE HERE //
 }
 
 /**
@@ -32,12 +30,10 @@ function isArray(value) {
  *
  * isObject({ a: 1, b: 2 }); // true
  * isObject([1, 2, 3]); // false
- * 
+ *
  */
 function isObject(value) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -47,9 +43,7 @@ function isObject(value) {
  * TIP: Similar to isObject, but we must return true if the value is an Array.
  */
 function isCollection(value) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 /**
@@ -72,9 +66,7 @@ function isCollection(value) {
  *    typeOf([1,2,3]) -> "array"
  */
 function typeOf(value) {
-  // YOUR CODE BELOW HERE //
-  
-  // YOUR CODE ABOVE HERE //
+  // YOUR CODE HERE //
 }
 
 // DON'T REMOVE THIS CODE //////////////////////////////////////////////////////

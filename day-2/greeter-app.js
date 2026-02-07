@@ -30,7 +30,7 @@
  */
 
 function greeter(hour) {
-  // CODE HERE
+  // YOUR CODE HERE
 }
 
 /*
