@@ -15,6 +15,7 @@
 
 function length(string) {
   // YOUR CODE HERE //
+  
 }
 
 /**
